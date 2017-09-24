@@ -1,0 +1,7 @@
+[package]
+name = "mauve"
+version = "0.1.0"
+authors = ["Kirth"]
+
+[dependencies]
+regex = "0.2"
